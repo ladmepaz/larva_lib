@@ -1,0 +1,8 @@
+# Ignore Python cache files
+larva/__pycache__
+*.py[cod]
+*.pyo
+test.py
+build
+dist
+.egg-info
