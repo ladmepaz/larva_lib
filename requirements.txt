@@ -1,2 +1,2 @@
-Jetson.GPIO>=2.0.0
+Jetson.GPIO>=2.0.17
 opencv-python>=4.5.3.56

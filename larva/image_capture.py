@@ -1,6 +1,6 @@
 import cv2
 
-class ImageCapture:
+class ImageCapture():
     def __init__(self, camera_id=0, width=480, height=640):
         self.cap = cv2.VideoCapture(camera_id)
         self.cap.set(3, width)
